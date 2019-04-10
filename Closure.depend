@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1458071881 source:c:\users\hidiki\desktop\closure\closure\f_graph.cpp
+	"f_graph.h"
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1457731942 c:\users\hidiki\desktop\closure\closure\f_graph.h
+	<windows.h>
+	<iostream>
+
+1458119737 source:c:\users\hidiki\desktop\closure\closure\main.cpp
+	"f_graph.h"
+	"func.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1458063698 c:\users\hidiki\desktop\closure\closure\func.h
+	"f_graph.h"
+
+1458118224 source:c:\users\hidiki\desktop\closure\closure\func.cpp
+	"func.h"
+	"f_graph.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
